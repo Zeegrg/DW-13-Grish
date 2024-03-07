@@ -1,0 +1,29 @@
+Day2variable
+        we must define variable before calling variable
+        variable must be descriptive
+        always use camelcase convention for naming variable
+
+
+
+
+
+
+
+Interview
+Define js single threaded, synchronous language, dynamic language
+1+2+"3"+4+5
+
+
+DAY5
+{
+
+        every curly braces is like new file
+        we can define variable, call variable and so
+        but we cannot export variable defined inside curly braces
+}
+Interview question
+console.log("1")
+setTimeout(()=>{
+    console.log("hello")
+},0)
+console.log("2")
